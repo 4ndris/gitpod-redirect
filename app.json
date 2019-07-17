@@ -1,6 +1,6 @@
 {
   "name": "Gitpod Redirect",
-  "description": "Template for creating a Python app with Gitpod and deploying to Heroku",
-  "repository": "https://github.com/coltonfischer/PyKuPod",
+  "description": "Web app to support dynamic Open in Gitpod button",
+  "repository": "https://github.com/coltonfischer/gitpod-redirect",
   "keywords": ["python", "flask", "static"]
 }
