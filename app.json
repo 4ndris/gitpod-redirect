@@ -1,5 +1,5 @@
 {
-  "name": "PyKuPod",
+  "name": "Gitpod Redirect",
   "description": "Template for creating a Python app with Gitpod and deploying to Heroku",
   "repository": "https://github.com/coltonfischer/PyKuPod",
   "keywords": ["python", "flask", "static"]
